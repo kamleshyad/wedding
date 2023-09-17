@@ -19,7 +19,7 @@ a:active, a:focus {outline:0}
 .headersec{background: url(../images/flowert_top.png) no-repeat left top; background-size: 130% 100%; width: 100%; padding: 43px 0;}
 .bannersec{padding: 110px 0 0px;}
 .bannersec .container{ display: grid; grid-template-columns: 450px auto; gap: 30px; align-items: center;}
-.bannersec .namebox h2{font-family: 'Parisienne', cursive; font-size: 36px; color: #000; font-weight: 400; line-height: normal;}
+.bannersec .namebox h2{font-family: 'Parisienne', cursive; font-size: 76px; color: #000; font-weight: 400; line-height: normal;}
 /* .bannersec .namebox h2 span{display: block;} */
 
 .bannersec .countdownsec ul{display: grid; grid-template-columns: repeat(4,1fr); gap: 30px; }
